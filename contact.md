@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /publications:
+title: People
+permalink: /people/
 ---
-#  Affective Cerebellar Research lab
 
 ## Publications
 

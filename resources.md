@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /publications:
+title: Resources
+permalink: /resources/
 ---
-#  Affective Cerebellar Research lab
 
 ## Publications
 
