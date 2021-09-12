@@ -2,8 +2,12 @@
 layout: default
 ---
 
+#  Affective Cerebellar Research
 ## About
-some description on the Affective Cerebellar Research lab led by Prof Dennis Schutter. 
+some description on the Affective Cerebellar Research lab led by Prof Dennis Schutter.
+
+# Navigation
+[Publications](./publications.html).
 
 <!---
 
