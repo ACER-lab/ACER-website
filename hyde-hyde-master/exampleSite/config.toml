@@ -16,10 +16,10 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "Author"
-    title = "Title"
+    author = ""
+    title = "Affective Cerebellar Research"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    authorimage = "/img/Logo.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
