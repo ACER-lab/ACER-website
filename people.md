@@ -1,16 +1,24 @@
 ---
 layout: default
 title: People
-permalink: /people/
+permalink: https://elzewolfs.github.io/ACER/people/
 ---
 
-## Publications
+# Affective Cerebellar Research Lab
+## People
 
-_2021_
-* Ponce, G. V., Klaus, J., & Schutter, D. J. (2021). A Brief History of Cerebellar Neurostimulation. The Cerebellum, 1-16. [doi](www.doi.org/10.1007/s12311-021-01310-2)
-* Klaus, J., & Schutter, D. J. (2021). Functional topography of anger and aggression in the human cerebellum. NeuroImage, 226, 117582.
-* Schutter, D. J., Paalman, M., Henssen, D., & Deschamps, P. K. (2021). A Case of Attention Deficit Hyperactivity Disorder in Rhombencephalosynapsis. The Cerebellum, 1-3. [doi](.)
+### Principal Investigator
 
 
+### Post-docs
+
+### PhD Candidates
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+![Me](/assets/img/logo.png) | ![Me](/assets/img/logo.png)  | ![Me](/assets/img/logo.png)
+Text 1 | Text 2 | Text 3
+
+### Students
 
 [back](./)

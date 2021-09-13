@@ -1,14 +1,20 @@
 ---
 layout: default
-permalink: /home/
+permalink: https://elzewolfs.github.io/ACER/home/
 ---
 
 #  Affective Cerebellar Research lab
 ## About
 Some description on the Affective Cerebellar Research lab.
 
+*
+*
+*
+
+
+
 ### Navigation
-[Publications](./publications.html). [People](./publications.html). [Resources](./publications.html). [Contact](./publications.html).
+[Publications](https://elzewolfs.github.io/ACER/publications.html). [People](https://elzewolfs.github.io/ACER/people.html). [Resources](https://elzewolfs.github.io/ACER/resources.html). [Contact](./contact.html).
 
 <!---
 
