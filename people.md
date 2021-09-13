@@ -1,7 +1,7 @@
 ---
 layout: default
 title: People
-permalink: https://elzewolfs.github.io/ACER/people/
+permalink: /people/
 ---
 
 # Affective Cerebellar Research Lab

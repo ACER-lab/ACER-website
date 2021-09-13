@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-permalink: https://elzewolfs.github.io/ACER/contact/
+permalink: /contact/
 ---
 
 # Affective Cerebellar Research lab
