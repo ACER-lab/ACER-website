@@ -3,3 +3,14 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
+
+
+.jekyll-metadata
+
+.bundle/
+vendor/
+
+node_modules/
+assets/
+
+_site/
