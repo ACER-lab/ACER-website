@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /publications:
+permalink: /publications/
 ---
 #  Affective Cerebellar Research lab
 
@@ -11,6 +11,10 @@ _2021_
 * Klaus, J., & Schutter, D. J. (2021). Functional topography of anger and aggression in the human cerebellum. NeuroImage, 226, 117582.
 * Schutter, D. J., Paalman, M., Henssen, D., & Deschamps, P. K. (2021). A Case of Attention Deficit Hyperactivity Disorder in Rhombencephalosynapsis. The Cerebellum, 1-3. [doi](.)
 
+
+_2020_
+
+_2019_
 
 
 [back](./)
