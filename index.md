@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: https://elzewolfs.github.io/ACER/home/
+permalink: /home/
 ---
 
 #  Affective Cerebellar Research lab
