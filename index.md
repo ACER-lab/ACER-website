@@ -14,7 +14,7 @@ Some description on the Affective Cerebellar Research lab.
 
 
 **Navigation**
-<small> [Publications](https://elzewolfs.github.io/ACER/publications.html). [People](https://elzewolfs.github.io/ACER/people.html). [Resources](https://elzewolfs.github.io/ACER/resources.html). [Contact](./contact.html). </small>
+<small> [Publications](https://elzewolfs.github.io/ACER/publications/). [People](https://elzewolfs.github.io/ACER/people/). [Resources](https://elzewolfs.github.io/ACER/resources/). [Contact](https://elzewolfs.github.io/ACER/contact/). </small>
 
 <!---
 
