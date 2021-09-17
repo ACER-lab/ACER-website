@@ -8,7 +8,7 @@ permalink: /people/
 ## People
 
 ### Principal Investigator
-<img src="/assets/img/logo.png" style="width:500px;height:500px;">
+![Octocat](/assets/img/logo.png)
 
 **Naam Naam**
 
