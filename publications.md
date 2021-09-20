@@ -6,9 +6,13 @@ permalink: /publications/
 
 ## Publications
 
+# books
+* Schutter DJLG (2020) The cerebellum in emotion and psychopathology. New York: Taylor & Francis. 
+
+# articles
 _2021_
 * Ponce, G. V., Klaus, J., & Schutter, D. J. L. G. (2021). A Brief History of Cerebellar Neurostimulation. _The Cerebellum_, 1-16. [doi](https://doi.org/10.1007/s12311-021-01310-2)
-* Klaus, J., & Schutter, D. J. (2021). Functional topography of anger and aggression in the human cerebellum. _NeuroImage_, 226, 117582. [doi](https://doi.org/10.1016/j.neuroimage.2020.117582)
+* Klaus, J., & Schutter, D. J. L. G. (2021). Functional topography of anger and aggression in the human cerebellum. _NeuroImage_, 226, 117582. [doi](https://doi.org/10.1016/j.neuroimage.2020.117582)
 * Schutter, D. J., Paalman, M., Henssen, D., & Deschamps, P. K. (2021). A Case of Attention Deficit Hyperactivity Disorder in Rhombencephalosynapsis. _The Cerebellum_, 1-3. [doi](https://doi.org/10.1007/s12311-021-01234-x)
 * Maas, R. P., Killaars, S., van de Warrenburg, B. P., & Schutter, D. J. L. G.(2021). The cerebellar cognitive affective syndrome scale reveals early neuropsychological deficits in SCA3 patients. _Journal of Neurology_, 1-11.
 [doi](https://doi.org/10.1007/s00415-021-10516-7)
