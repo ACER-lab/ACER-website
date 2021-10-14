@@ -5,7 +5,6 @@ description:	A description of the current post
 math:	false
 comments:	false
 ---
-## People
 
 ### Principal Investigator
 
