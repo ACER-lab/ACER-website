@@ -21,7 +21,3 @@ Spinoza database under construction, link added later. If interested, you can se
 ### Code
 * Under
 * Construction
-*
-
-
-[back](./)

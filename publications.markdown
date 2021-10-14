@@ -26,6 +26,3 @@ _2021_
 _2020_
 * Smits, F. M., Schutter, D. J. L. G., van Honk, J., & Geuze, E. (2020). Does non-invasive brain stimulation modulate emotional stress reactivity? _Social cognitive and affective neuroscience_, 15(1), 23-51. [doi](https://doi.org/10.1093/scan/nsaa011)
 * Wischnewski, M., Joergensen, M. L., Compen, B., & Schutter, D. J. L. G.(2020). Frontal beta transcranial alternating current stimulation improves reversal learning. _Cerebral Cortex_, 30(5), 3286-3295. [doi](https://doi.org/10.1093/cercor/bhz309)
-
-
-[back](./)

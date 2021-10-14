@@ -14,8 +14,8 @@ Prof. dr. Dennis J.L.G. Schutter
 Martinus J. Langeveldgebouw, Room H050  
 Heidelberglaan 1  
 3584 CS Utrecht  
-Telephone number 030 253 2640  
-E-mail d.j.l.g.schutter@uu.nl  
+<i class="fas fa-phone"></i> 030 253 2640  
+<i class='fas fa-envelope'></i> d.j.l.g.schutter@uu.nl  
 
 
 ### Internships

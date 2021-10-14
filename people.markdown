@@ -113,6 +113,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Alumni (MSc)
 * Robin Heemskerk (Applied Cognitive Psychology, UU)
-
-
-[back](./)
