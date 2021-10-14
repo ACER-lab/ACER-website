@@ -8,8 +8,8 @@ comments:	false
 ## People
 ### Principal Investigator
 
-<img src="/assets/img/cat.png" alt="Face Icon" width="128" height="128"  align="left" style="vertical-align:left;margin:0px 30px">  **Dennis Schutter**
-<img src="assets/img/cat.png" width="228.058" height="148.108" alt="Logo UU" align = "left" width="220" height="140.665">
+<img src="../assets/img/cat.png" alt="Face Icon" width="128" height="128"  align="left" style="vertical-align:left;margin:0px 30px">  **Dennis Schutter**
+
 _Principal Investigator_
 
 <a href="mailto:d.j.l.g.schutter@uu.nl" class="button"><i class='fas fa-envelope'></i></a>  
