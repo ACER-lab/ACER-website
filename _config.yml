@@ -1,6 +1,10 @@
-title: " "
-logo: /assets/img/cover.png
-description:
+title:            Affective Cerebellar Research lab
+logo:             assets/img/cover.png
+description:      ''
+tagline:          ''
+
+
+
 show_downloads: false
 google_analytics:
 plugins:

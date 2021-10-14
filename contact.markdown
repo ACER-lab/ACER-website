@@ -5,7 +5,6 @@ description:	A description of the current post
 math:	false
 comments:	false
 ---
-
 ### Affective Cerebellar Research lab
 Our lab is located at the [Department of Experimental Psychology at Utrecht University](https://www.uu.nl/en/organisation/experimental-psychology).
 
