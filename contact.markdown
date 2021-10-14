@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /contact/
+title: ""
 description:	A description of the current post
 math:	false
 comments:	false

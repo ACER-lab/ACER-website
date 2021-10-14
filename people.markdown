@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /people/
+title: "People"
 description:	A description of the current post
 math:	false
 comments:	false
 ---
-## People
 ### Principal Investigator
 
 <img src="../assets/img/cat.png" alt="Face Icon" width="128" height="128"  align="left" style="vertical-align:left;margin:0px 30px">  **Dennis Schutter**
