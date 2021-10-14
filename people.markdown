@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /people/
 description:	A description of the current post
 math:	false
