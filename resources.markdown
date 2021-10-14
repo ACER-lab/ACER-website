@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /resources/
+title: "Resources"
 description:	A description of the current post
 math:	false
 comments:	false
 ---
-## Resources
 
 ### Courses
 * [Methods and Techniques in Social Neuroscience](https://osiris-student.uu.nl/#/onderwijscatalogus/extern/cursus?cursuscode=200900352&taal=nl&collegejaar=2021) at Utrecht University
