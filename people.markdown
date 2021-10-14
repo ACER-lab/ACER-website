@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ### PhD Candidates
-<img src="../assets/img/person1.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+<img src="../assets/img/person1.PNG" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Fenne Smits**   
 
 _PhD Candidate_  
@@ -54,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>&nbsp;</p>
-<img src="../assets/img/person1.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+<img src="../assets/img/person1.PNG" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Elze Wolfs**   
 
 _PhD Candidate_  
@@ -66,7 +66,7 @@ _PhD Candidate_
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <p>&nbsp;</p>
-<img src="../assets/img/person1.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+<img src="../assets/img/person1.PNG" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Eline Kruithof**   
 
 _PhD Candidate_  
@@ -78,7 +78,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>&nbsp;</p>
-<img src="../assets/img/person1.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+<img src="../assets/img/person1.PNG" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Stacha Reumers**   
 
 _PhD Candidate_  
@@ -90,7 +90,7 @@ _PhD Candidate_
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <p>&nbsp;</p>
-<img src="../assets/img/person1.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+<img src="../assets/img/person1.PNG" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Fleur Bongaerts**   
 
 _PhD Candidate_  
