@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ### PhD Candidates
-<img src="../assets/img/photosq_FS.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+<img src="../assets/img/Photosq_FS.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Fenne Smits**   
 
 _PhD Candidate_   
@@ -91,7 +91,7 @@ _PhD Candidate_
 My PhD project studies the effects of cerebellar anodal tDCS on cognitive function in patients with the Cerebellar Cognitive and Affective Syndrome (CCAS). This clinical trial is conducted at the Radboudumc and patients from all across the country are included. We investigate the effects of a 2-week tDCS intervention on cognition, focussing on attention and executive functions. We will also try to explore the dynamics of a possible treatment effect and patient or disease characteristics which might influence the effectiveness of tDCS.
 
 <p>&nbsp;</p>
-<img src="../assets/img/photosq_FB.PNG" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+<img src="../assets/img/photosq_FB.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Fleur Bongaerts**   
 
 _PhD Candidate_  
