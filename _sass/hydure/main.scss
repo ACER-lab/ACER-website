@@ -10,6 +10,7 @@
 @import "message";
 @import "alignment";
 @import "highlight-light";
+@import "accordion";
 
 @media (prefers-color-scheme: dark) {
   @import "highlight-dark";

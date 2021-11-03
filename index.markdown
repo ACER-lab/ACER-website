@@ -1,13 +1,17 @@
 ---
-layout: post
+layout: page
+
 permalink: /
 ---
 
-**A**ffective **Ce**rebellar **R**esearch lab <img src="assets/img/logo.png" alt="Logo ACER" align = "right" width="300" height="150">
-
-The ACER research group headed by Dennis Schutter investigates the experimental and biological psychology of **emotion** and **motivation** in healthy and clinical populations through multidisciplinary research.
-
+<img src="assets/img/logo.png" alt="Logo ACER" align = "left" width="300" height="150">  
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+The Affective Cerebellar Research group headed by Dennis Schutter investigates the experimental and biological psychology of **emotion** and **motivation** in healthy and clinical populations through multidisciplinary research.
+<p></p>
 &rarr; cerebellum | non-invasive brain stimulation | electrophysiology (EEG) | magnetic resonance imaging (MRI) | transcranial magnetic stimulation (TMS) | transcranial direct current stimulation (tDCS) | transcranial alternating current stimulation (tACS) | steroid hormones
 
 

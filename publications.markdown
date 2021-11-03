@@ -6,7 +6,7 @@ description:	A description of the current post
 math:	false
 comments:	false
 ---
-### book(chapter)s
+### books/chapters
 * Schutter D. J. L. G. (2020) The cerebellum in emotion and psychopathology. New York: Taylor & Francis.
 
 ### articles
@@ -18,7 +18,7 @@ _2021_
 [doi](https://doi.org/10.1007/s00415-021-10516-7)
 * Maas, R. P., Schutter, D. J. L. G., & van de Warrenburg, B. P. (2021). Discordance Between Patient-Reported Outcomes and Physician-Rated Motor Symptom Severity in Early-to-Middle-Stage Spinocerebellar Ataxia Type 3. _The Cerebellum_, 1-9. [doi](https://doi.org/10.1007/s12311-021-01252-9)
 * Maas, R. P., van de Warrenburg, B. P., & Schutter, D. J. L. G. (2021). Inverse associations between cerebellar inhibition and motor impairment in spinocerebellar ataxia type 3. _Brain Stimulation_, 14(2), 351-357. [doi](https://doi.org/10.1016/j.brs.2021.01.020)
-* Cattaneo, Z., Ferrari, C., Ciricugno, A., Heleven, E., Schutter, D. J. L. G., Manto, M., & Van Overwalle, F. (2021). New Horizons on Non-invasive Brain Stimulation of the Social and Affective Cerebellum. The Cerebellum, 1-15. [doi](https://doi.org/10.1007/s12311-021-01300-4)
+* Cattaneo, Z., Ferrari, C., Ciricugno, A., Heleven, E., Schutter, D. J. L. G., Manto, M., & Van Overwalle, F. (2021). New Horizons on Non-invasive Brain Stimulation of the Social and Affective Cerebellum. _The Cerebellum_, 1-15. [doi](https://doi.org/10.1007/s12311-021-01300-4)
 * Smits, F. M., Geuze, E., Schutter, D. J., van Honk, J., & Gladwin, T. E. (2021). Effects of tDCS during inhibitory control training on performance and PTSD, aggression and anxiety symptoms: a randomized-controlled trial in a military sample. _Psychological medicine_, 1-11. [doi](https://doi.org/10.1017/S0033291721000817)
 * Matthys, W., & Schutter, D. J. L. G. (2021). Increasing Effectiveness of Cognitive Behavioral Therapy for Conduct Problems in Children and Adolescents: What Can We Learn from Neuroimaging Studies? _Clinical Child and Family Psychology Review_, 1-16. [doi](https://doi.org/10.1007/s10567-021-00346-4)
 

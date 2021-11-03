@@ -8,7 +8,7 @@ comments:	false
 ---
 ### Principal Investigator
 
-<img src="../assets/img/.jpg" alt="Face Icon" width="128" height="128"  align="left" style="vertical-align:left;margin:0px 30px">  **Dennis Schutter**
+<img src="../assets/img/photosq_DS.jpg" alt="Face Icon" width="128" height="128"  align="left" style="vertical-align:left;margin:0px 30px">  **Dennis Schutter**
 
 _Principal Investigator_
 
@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>&nbsp;</p>
 -->
-<img src="../assets/img/cat.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> **Jana Klaus**  
+<img src="../assets/img/photo_jk.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> **Jana Klaus**  
 
 _Post-doc_  
 
@@ -39,9 +39,9 @@ _Post-doc_
 <a href="https://www.linkedin.com/in/jana-klaus-281966b6" class="button"><i class="fab fa-linkedin"></i>
 <a href="https://twitter.com/janakl4us" class="button"><i class="fab fa-twitter"></i></a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+After my PhD at Leipzig University and postdoctoral positions at Radboud University Nijmegen and the Max Planck Institute for Human Cognitive and Brain Sciences, I joined the lab as a postdoctoral researcher in 2019. While I had close to no knowledge on the cerebellum prior to starting work in the group, it didn’t take long until I was sold on its versatile role in affective and cognitive functions. Now I am primarily involved in unravelling its contributions to negative emotional, particularly aggressive, behaviour. However, I also frequently try to combine this topic with language processing, my original research focus. Within the group I keep myself busy by co-supervising our three PhD candidates, digging into structural MRI data, getting 75% excited and 25% critical about brain stimulation, and convincing people to analyse their data with linear mixed models.
 
-
+<p>&nbsp;</p>
 ### PhD Candidates
 <img src="../assets/img/photo_EW.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Elze Wolfs**   
@@ -52,7 +52,11 @@ _PhD Candidate_
 <a href="https://nl.linkedin.com/in/elze-wolfs" class="button"><i class="fab fa-linkedin"></i>
 <a href="https://twitter.com/elzewolfs" class="button"><i class="fab fa-twitter"></i></a>
 
-How does the cerebellum fit in the fronto-limbic network involved in emotion regulation? My research aims to assess the role of the cerebellum in reactive aggression with (f)MRI. In healthy volunteers, I study structural and functional connectivity between the cerebellum and the fronto-limbic circuit involved in aggression, as well as volumetric cerebellar correlates of aggressive behavior. In collaboration with the Central Military Hospital, we compare functional connectivity between veterans with and without aggressive behavior.
+<button class="accordion">About me</button>
+<div class="panel">
+  <p>How does the cerebellum fit in the fronto-limbic network involved in emotion regulation? My research aims to assess the role of the cerebellum in reactive aggression with (f)MRI. In healthy volunteers, I study structural and functional connectivity between the cerebellum and the fronto-limbic circuit involved in aggression, as well as volumetric cerebellar correlates of aggressive behavior. In collaboration with the Central Military Hospital, we compare functional connectivity between veterans with and without aggressive behavior.</p>
+</div>
+
 
 <p>&nbsp;</p>
 <img src="../assets/img/photosq_EK.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
