@@ -102,14 +102,15 @@ _PhD Candidate_
 <a href="https://www.linkedin.com/in/stacha-reumers" class="button"><i class="fab fa-linkedin"></i>
 
 My PhD project studies the effects of cerebellar anodal tDCS on cognitive function in patients with the Cerebellar Cognitive and Affective Syndrome (CCAS). This clinical trial is conducted at the Radboudumc and patients from all across the country are included. We investigate the effects of a 2-week tDCS intervention on cognition, focussing on attention and executive functions. We will also try to explore the dynamics of a possible treatment effect and patient or disease characteristics which might influence the effectiveness of tDCS.
+In collaboration with: [Bart van de Warrenburg](https://www.ru.nl/english/people/warrenburg-b-van-de/), [Roy Kessels, Frank-Eric de Leeuw]
 
-<p>&nbsp;</p>
+<!--- <p>&nbsp;</p>
 
 <img src="../assets/img/.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Roderick Maas**   
 
 _PhD Candidate_  
-
+--->
 
 <p>&nbsp;</p>
 ### Master's Students
