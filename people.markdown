@@ -8,19 +8,18 @@ comments:	false
 ---
 ### Principal Investigator
 
-<img src="../assets/img/photosq_DS.jpg" alt="Face Icon" width="128" height="128"  align="left" style="vertical-align:left;margin:0px 30px">  **Dennis Schutter**
+<img src="../assets/img/.jpg" alt="Face Icon" width="128" height="128"  align="left" style="vertical-align:left;margin:0px 30px">  **Dennis Schutter**
 
 _Principal Investigator_
 
 <a href="mailto:d.j.l.g.schutter@uu.nl" class="button"><i class='fas fa-envelope'></i></a>
 <a href="https://scholar.google.nl/citations?hl=nl&user=WsTHwJkAAAAJ" class="button"><i class="fas fa-graduation-cap"></i>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
-
+Our research focusses on the role of the cerebellum in emotion and motivation in health and disease. Non-invasive brain stimulation techniques are used in our group to transiently manipulate neural excitability and to explore potential clinical applications in the treatment of disorders of emotion.
 
 
 ### Staff
-<img src="../assets/img/photo_DT.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> **David Terburg**  
+<!--<img src="../assets/img/photo_DT.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> **David Terburg**  
 
 _Assistant Professor_  
 
@@ -30,7 +29,7 @@ _Assistant Professor_
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <p>&nbsp;</p>
-
+-->
 <img src="../assets/img/cat.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> **Jana Klaus**  
 
 _Post-doc_  
@@ -44,18 +43,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ### PhD Candidates
-<img src="../assets/img/Photosq_FS.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
-**Fenne Smits**   
-
-_PhD Candidate_   
-
-<a href="mailto:f.m.smits-2@umcutrecht.nl" class="button"><i class='fas fa-envelope'></i></a>
-<a href="https://nl.linkedin.com/in/fenne-smits-26270ba9" class="button"><i class="fab fa-linkedin"></i>
-
-At the [Brain Research and Innovation Centre](https://www.braic.nl), I investigate the effects of brain stimulation on anxiety and aggression-related complaints in military personnel. A mild, non-invasive form of brain stimulation is used: transcranial direct current stimulation (tDCS).
-I am currently involved in two brain stimulation projects. One project focuses on military personnel who receive treatment for mental complaints. The second project focuses on military personnel without psychological complaints, in which self-control during threat is investigated.
-
-<p>&nbsp;</p>
 <img src="../assets/img/photo_EW.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Elze Wolfs**   
 
@@ -80,17 +67,7 @@ My research focuses on the role of the cerebellum in aggression and aggression-r
 
 
 <p>&nbsp;</p>
-<img src="../assets/img/photosq_SR.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
-**Stacha Reumers**   
 
-_PhD Candidate_  
-
-<a href="mailto:stacha.reumers@radboudumc.nl" class="button"><i class='fas fa-envelope'></i></a>
-<a href="https://www.linkedin.com/in/stacha-reumers" class="button"><i class="fab fa-linkedin"></i>
-
-My PhD project studies the effects of cerebellar anodal tDCS on cognitive function in patients with the Cerebellar Cognitive and Affective Syndrome (CCAS). This clinical trial is conducted at the Radboudumc and patients from all across the country are included. We investigate the effects of a 2-week tDCS intervention on cognition, focussing on attention and executive functions. We will also try to explore the dynamics of a possible treatment effect and patient or disease characteristics which might influence the effectiveness of tDCS.
-
-<p>&nbsp;</p>
 <img src="../assets/img/photosq_FB.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 **Fleur Bongaerts**   
 
@@ -103,6 +80,38 @@ _PhD Candidate_
 My name is Fleur, and I am (for now!) the latest addition to the ACER lab. After doing a final Master’s research project on the effects of cerebellar brain stimulation on language processing with Jana and Dennis in 2021, I stuck around to pursue a PhD in this very same lab. Like Jana, I have a personal interest in language processing. In a very general sense, however, I am interested in finding out more about how our experiences shape our interpretations of and our (emotional) responses to the world around us. The work that we do in this lab allows me to play a role in uncovering (a small) part of that puzzle, which is ultimately what motivated me to pursue this PhD. I am currently working on a project in which we will use cerebellar tDCS and eye tracking to further investigate the role of the cerebellum in aggression and anxiety in a social dominance task. Future work will likely include the application of cerebellar TMS in clinical populations, so stay tuned!
 
 <p>&nbsp;</p>
+
+<img src="../assets/img/Photosq_FS.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+**Fenne Smits**   
+
+_PhD Candidate_   
+
+<a href="mailto:f.m.smits-2@umcutrecht.nl" class="button"><i class='fas fa-envelope'></i></a>
+<a href="https://nl.linkedin.com/in/fenne-smits-26270ba9" class="button"><i class="fab fa-linkedin"></i>
+
+At the [Brain Research and Innovation Centre](https://www.braic.nl), I investigate the effects of brain stimulation on anxiety and aggression-related complaints in military personnel. A mild, non-invasive form of brain stimulation is used: transcranial direct current stimulation (tDCS).
+I am currently involved in two brain stimulation projects. One project focuses on military personnel who receive treatment for mental complaints. The second project focuses on military personnel without psychological complaints, in which self-control during threat is investigated.
+
+<p>&nbsp;</p>
+<img src="../assets/img/photosq_SR.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+**Stacha Reumers**   
+
+_PhD Candidate_  
+
+<a href="mailto:stacha.reumers@radboudumc.nl" class="button"><i class='fas fa-envelope'></i></a>
+<a href="https://www.linkedin.com/in/stacha-reumers" class="button"><i class="fab fa-linkedin"></i>
+
+My PhD project studies the effects of cerebellar anodal tDCS on cognitive function in patients with the Cerebellar Cognitive and Affective Syndrome (CCAS). This clinical trial is conducted at the Radboudumc and patients from all across the country are included. We investigate the effects of a 2-week tDCS intervention on cognition, focussing on attention and executive functions. We will also try to explore the dynamics of a possible treatment effect and patient or disease characteristics which might influence the effectiveness of tDCS.
+
+<p>&nbsp;</p>
+
+<img src="../assets/img/.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+**Roderick Maas**   
+
+_PhD Candidate_  
+
+
+<p>&nbsp;</p>
 ### Master's Students
 * Nina Dijkstra (Neuroscience & Cognition, UU)
 * Haydn Merle (Neuroscience & Cognition, UU)
@@ -110,6 +119,3 @@ My name is Fleur, and I am (for now!) the latest addition to the ACER lab. After
 * Maaike Jansen (Neuroscience & Cognition, UU)
 * Daniël Scheeper (Neuropsychology, UU)
 * Eileen Langenberger (Neuropsychology, UU)
-<p>&nbsp;</p>
-### Alumni (MSc)
-* Robin Heemskerk (Applied Cognitive Psychology, UU)

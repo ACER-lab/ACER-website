@@ -6,7 +6,7 @@ description:	A description of the current post
 math:	false
 comments:	false
 ---
-### books
+### book(chapter)s
 * Schutter D. J. L. G. (2020) The cerebellum in emotion and psychopathology. New York: Taylor & Francis.
 
 ### articles
