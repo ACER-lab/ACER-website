@@ -6,10 +6,10 @@ description:	A description of the current post
 math:	false
 comments:	false
 ---
-### Books/chapters
+<h3> Books/chapters </h3>
 * Schutter D. J. L. G. (2020) The cerebellum in emotion and psychopathology. New York: Taylor & Francis.
 
-### Articles
+<h3> Articles </h3>
 _2021_
 * Ponce, G. V., Klaus, J., & Schutter, D. J. L. G. (2021). A Brief History of Cerebellar Neurostimulation. _The Cerebellum_, 1-16. [doi](https://doi.org/10.1007/s12311-021-01310-2)
 * Klaus, J., & Schutter, D. J. L. G. (2021). Functional topography of anger and aggression in the human cerebellum. _NeuroImage_, 226, 117582. [doi](https://doi.org/10.1016/j.neuroimage.2020.117582)

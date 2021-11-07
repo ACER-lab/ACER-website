@@ -6,8 +6,7 @@ description:	A description of the current post
 math:	false
 comments:	false
 ---
-
-### Principal Investigator
+<h3> Principal Investigator </h3>
 <details>
 <summary> <img src="../assets/img/photosq_DS.jpg" alt="Face Icon" width="128" height="128"  align="left" style="vertical-align:left;margin:0px 30px">  <b>Dennis Schutter</b> <br> <br>  <i>Principal Investigator</i><br><br>
 <a href="mailto:d.j.l.g.schutter@uu.nl" class="button"><i class='fas fa-envelope'></i></a>
@@ -18,7 +17,7 @@ Our research focusses on the role of the cerebellum in emotion and motivation in
 </ul>
 </details>
 
-### Staff
+<h3> Staff </h3>
 <details>
 <summary> <img src="../assets/img/photo_DT.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> <b> David Terburg </b> <br> <br>  <i>Assistant Professor</i><br><br>
 <a href="mailto:d.terburg@uu.nl" class="button"><i class='fas fa-envelope'></i></a>
@@ -43,7 +42,7 @@ After my PhD at Leipzig University and postdoctoral positions at Radboud Univers
 </ul>
 </details>
 
-### PhD Candidates
+<h3> PhD Candidates </h3>
 <!-- Person 1 -->
 <details>
   <summary><img src="../assets/img/photo_EW.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> <b>Elze Wolfs</b><br><br>
@@ -74,7 +73,7 @@ After my PhD at Leipzig University and postdoctoral positions at Radboud Univers
 </summary>
 <ul>
 My name is Fleur, and I am (for now!) the latest addition to the ACER lab. After doing a final Master’s research project on the effects of cerebellar brain stimulation on language processing with Jana and Dennis in 2021, I stuck around to pursue a PhD in this very same lab. Like Jana, I have a personal interest in language processing. In a very general sense, however, I am interested in finding out more about how our experiences shape our interpretations of and our (emotional) responses to the world around us. The work that we do in this lab allows me to play a role in uncovering (a small) part of that puzzle, which is ultimately what motivated me to pursue this PhD. I am currently working on a project in which we will use cerebellar tDCS and eye tracking to further investigate the role of the cerebellum in aggression and anxiety in a social dominance task. Future work will likely include the application of cerebellar TMS in clinical populations, so stay tuned!  <br>
-Finally a few fun facts about me: I have about 75 house plants, each has their own name.; I have a small (and by small I mean tiny, I don’t have room for much more with all these plants) ‘pop culture Hot Wheels’ collection, which includes the Beatles’ yellow submarine, the flying car from the Jetsons, Cruella de Vil’s car and several Batmobiles.; I love reading and have a reputation amongst friends for buying new books despite never having had the time to read the ones I had bought on a previous shopping spree (some might call it a book addiction).  
+Finally a few fun facts about me: I have about 75 house plants, each has their own name; I have a small (and by small I mean tiny, I don’t have room for much more with all these plants) ‘pop culture Hot Wheels’ collection, which includes the Beatles’ yellow submarine, the flying car from the Jetsons, Cruella de Vil’s car and several Batmobiles; I love reading and have a reputation amongst friends for buying new books despite never having had the time to read the ones I had bought on a previous shopping spree (some might call it a book addiction).  
 </ul>
 </details>
 
@@ -100,11 +99,11 @@ I am currently involved in two brain stimulation projects. One project focuses o
 </summary>
 <ul>
 My PhD project studies the effects of cerebellar anodal tDCS on cognitive function in patients with the Cerebellar Cognitive and Affective Syndrome (CCAS). This clinical trial is conducted at the Radboudumc and patients from all across the country are included. We investigate the effects of a 2-week tDCS intervention on cognition, focussing on attention and executive functions. We will also try to explore the dynamics of a possible treatment effect and patient or disease characteristics which might influence the effectiveness of tDCS.<br>
-In collaboration with: <a href="https://www.ru.nl/english/people/warrenburg-b-van-de/">Bart van de Warrenburg</a>, <a href="https://www.ru.nl/personen/kessels-r/">Roy Kessels</a> and <a href="https://www.ru.nl/english/people/leeuw-h-de/"> Frank-Eric de Leeuw</a>. 
+In collaboration with: <a href="https://www.ru.nl/english/people/warrenburg-b-van-de/">Bart van de Warrenburg</a>, <a href="https://www.ru.nl/personen/kessels-r/">Roy Kessels</a> and <a href="https://www.ru.nl/english/people/leeuw-h-de/"> Frank-Eric de Leeuw</a>.
 </ul>
 </details>
 
-### Master's Students
+<h3> Master's students </h3>
 * Nina Dijkstra (Neuroscience & Cognition, UU)
 * Haydn Merle (Neuroscience & Cognition, UU)
 * Ziliang Xiong (Neuroscience & Cognition, UU)

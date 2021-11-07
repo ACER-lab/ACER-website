@@ -7,11 +7,11 @@ math:	false
 comments:	false
 ---
 
-### Courses
+<h3> Courses </h3>
 * [Methods and Techniques in Social Neuroscience](https://osiris-student.uu.nl/#/onderwijscatalogus/extern/cursus?cursuscode=200900352&taal=nl&collegejaar=2021) at Utrecht University
 * [Neuroscience of Social Behavior and Emotional Disorders](https://osiris-student.uu.nl/#/onderwijscatalogus/extern/cursus?cursuscode=201300351&taal=nl&collegejaar=2021) at Utrecht University
 
-### Data
+<h3> Data </h3>
 Here you can find links to data repositories and preregistrations:
 
 **tDCS**
@@ -24,7 +24,7 @@ Link [Open Science Framework - Registration](https://osf.io/6dqy9)
 Link [Open Science Framework - data ](https://osf.io/pc3ft)  
 Link [paper](https://doi.org/10.1016/j.neuroimage.2020.117582)
 
-* _Role of the cerebellum in aggression, an fMRI study_.  
+<!-- * _Role of the cerebellum in aggression, an fMRI study_.  
 Acquired at [Spinoza Centre for Neuroimaging](https://www.spinozacentre.nl/).   
 Data include task based fMRI (Point Subtraction Aggression Paradigm), hormone levels and questionnaires (BPA, BIS-11, state anger)  
 Spinoza database under construction, link added later. If interested, you can send an e-mail to [Elze Wolfs](mailto:e.m.l.wolfs@uu.com)
@@ -33,5 +33,5 @@ Spinoza database under construction, link added later. If interested, you can se
 Acquired at [Spinoza Centre for Neuroimaging](https://www.spinozacentre.nl/).  
 Data include rs-fMRI, hormone levels and questionnaires (BPA, BIS-11, state anger)  
 Spinoza database under construction, link added later. If interested, you can send an e-mail to [Elze Wolfs](mailto:e.m.l.wolfs@uu.com)
-
-**EEG** & **TMS** will follow later.
+-->
+<i class="fas fa-tools"></i> Further <b>tDCS</b>, <b>fMRI</b>, <b>EEG</b> & <b>TMS</b> data will follow soon
