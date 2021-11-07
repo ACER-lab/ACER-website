@@ -7,12 +7,12 @@ math:	false
 comments:	false
 ---
 
-## Courses
+### Courses
 * [Methods and Techniques in Social Neuroscience](https://osiris-student.uu.nl/#/onderwijscatalogus/extern/cursus?cursuscode=200900352&taal=nl&collegejaar=2021) at Utrecht University
 * [Neuroscience of Social Behavior and Emotional Disorders](https://osiris-student.uu.nl/#/onderwijscatalogus/extern/cursus?cursuscode=201300351&taal=nl&collegejaar=2021) at Utrecht University
 
-## Data
-Here you can find links to data repositories:
+### Data
+Here you can find links to data repositories and preregistrations:
 
 **tDCS**
 * _Language processing in the right posterior cerebellum_  
