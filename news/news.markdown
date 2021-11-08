@@ -14,7 +14,7 @@ permalink: /news/
       01-10-2021
     </time>
   </div>
-    After doing her Master's project in our lab, we're happy to welcome our newest PhD candidate Fleur, who will be working with David, Jana and Dennis on cerebellar tDCS and eyetracking to investigate the role of the cerebellum in aggression and anxiety in a social dominance task. Future work will likely include the application of cerebellar TMS in clinical populations.
+    -After doing her Master's project in our lab, we're happy to welcome our newest PhD candidate Fleur, who will be working with David, Jana and Dennis on cerebellar tDCS and eyetracking to investigate the role of the cerebellum in aggression and anxiety in a social dominance task. Future work will likely include the application of cerebellar TMS in clinical populations.
 </article>
 
 <br>
