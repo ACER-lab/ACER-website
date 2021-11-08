@@ -1,7 +1,7 @@
 ---
 layout: post
 title: News
-permalink: /news/011021
+permalink: /news/
 ---
 <br>
 
