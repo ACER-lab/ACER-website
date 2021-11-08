@@ -4,7 +4,10 @@
 
   <body>
     <div id="layout" class="pure-g">
+        site.cover =  "../assets/img/cover.png" 
       {% assign cover = site.cover | default: "cover.png" %}
+      {% assign cover = site.cover | default: "https://cdn.jsdelivr.net/gh/zivong/jekyll-theme-hydure@v2.0.0/cover.jpg" %}
+
       {% if page.cover %}
         {% assign cover = page.cover %}
       {% endif %}
@@ -30,20 +33,3 @@
     {% endif %}
   </body>
 </html>
-
-<script>
-  var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-</script>

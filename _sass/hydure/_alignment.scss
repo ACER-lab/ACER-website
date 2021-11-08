@@ -27,3 +27,30 @@ figcaption.align-left {
 figcaption.align-center {
   text-align: center;
 }
+
+#wrapper{
+  width: 100%;
+  padding: 10px;
+}
+
+section {
+  float: left;
+  width: 70%;
+  height: 400px;
+}
+
+aside {
+  float: left;
+  width: 20%;
+  height: 400px;
+}
+
+columna {
+  float: left;
+  width: 48%;
+}
+
+columnb {
+  float: right;
+  width: 48%;
+}

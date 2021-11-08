@@ -7,7 +7,7 @@ math:	false
 comments:	false
 ---
 
-<h3> Courses </h3>
+<h3>Courses</h3>
 * [Methods and Techniques in Social Neuroscience](https://osiris-student.uu.nl/#/onderwijscatalogus/extern/cursus?cursuscode=200900352&taal=nl&collegejaar=2021) at Utrecht University
 * [Neuroscience of Social Behavior and Emotional Disorders](https://osiris-student.uu.nl/#/onderwijscatalogus/extern/cursus?cursuscode=201300351&taal=nl&collegejaar=2021) at Utrecht University
 
