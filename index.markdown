@@ -17,13 +17,13 @@ The Affective Cerebellar Research group headed by Dennis Schutter investigates t
 <article class="post">
     <div class="post-meta">
     </div>
-  <h3 class="post-title">New publication in <em>The Cerebellum</em></h3>
+  <h3 class="post-title">Fleur Bongaerts has started as a PhD candidate</h3>
   <div class="post-meta">
     <time datetime="2021-11-07" itemprop="datePublished">
       2021-11-07 {{ page.date | date_to_string }}
     </time>
   </div>
-  Something was published. Yay! <a href="/news">Read more ...</a>
+    Fleur will start her PhD project on the cerebellum in aggression and anxiety   <a href="/news/011021/">Read more ...</a>
 </article>
 
 <p>&nbsp;</p>
