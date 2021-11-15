@@ -1,0 +1,25 @@
+---
+layout: post
+title: News
+permalink: /news/090621
+---
+
+<article class="post">
+    <div class="post-meta">
+    </div>
+  <h3 class="post-title">Check our sessions and posters at the virtual Dutch Neuroscience Meeting</h3>
+  <div class="post-meta">
+    <time datetime="2021-11-07" itemprop="datePublished">
+      09-06-2021
+    </time>
+  </div>
+  9-11th of June the virtual Dutch Neuroscience Meeting takes place.
+
+  <ul>
+  <li> On Wednesday, Dennis will speak during the session <em>Transcranial magnetic stimulation and neuroscience: converging evidence from neuroimaging </em> on resting state EEG to predict TMS treatment outcome in depressive disorder </li>
+  <li> On Wednesday, Fenne will show her work during the poster session. <br>
+  P138 (D1)  Prefrontal brain stimulation by tDCS in healthy military personnel: do effects on working memory last and transfer to stress regulation?</li>
+  <li>On Thursday, Dennis will speak during the session <em>The cerebellum as the spider in the web: cerebello-cortical interactions supporting cognition and complex behaviors</em> on the cerebellar neuroscience of aggression</li>
+  <li>On Thursday, Elze will show her work during the poster session. <br> P131 (D2)  Lower functional cerebello-cortical connectivity in combat veterans with impulsive aggression: Preliminary findings from resting state fMRI</li>
+  </ul>
+</article>

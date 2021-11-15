@@ -46,7 +46,7 @@ After my PhD at Leipzig University and postdoctoral positions at Radboud Univers
 <!-- Person 1 -->
 <details>
   <summary><img src="../assets/img/photo_EW.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> <b>Elze Wolfs</b><br><br>
-  <i>PhD Candidate</i><br><br> <a href="mailto:e.m.l.wolfs@uu.nl" class="button"><i class='fas fa-envelope'></i></a> <a href="https://nl.linkedin.com/in/elze-wolfs" class="button"><i class="fab fa-linkedin"></i></a> <a href="https://twitter.com/elzewolfs" class="button"><i class="fab fa-twitter"></i></a></summary>
+  <i>PhD Candidate UU</i><br><br> <a href="mailto:e.m.l.wolfs@uu.nl" class="button"><i class='fas fa-envelope'></i></a> <a href="https://nl.linkedin.com/in/elze-wolfs" class="button"><i class="fab fa-linkedin"></i></a> <a href="https://twitter.com/elzewolfs" class="button"><i class="fab fa-twitter"></i></a></summary>
   <ul>
     <p> How does the cerebellum fit in the fronto-limbic network involved in emotion regulation? My research aims to assess the role of the cerebellum in reactive aggression with (f)MRI. In healthy volunteers, I study structural and functional connectivity between the cerebellum and the fronto-limbic circuit involved in aggression, as well as volumetric cerebellar correlates of aggressive behavior. In collaboration with the Central Military Hospital, we compare functional connectivity between veterans with and without aggressive behavior. </p>
   </ul>
@@ -55,7 +55,7 @@ After my PhD at Leipzig University and postdoctoral positions at Radboud Univers
 <!-- Person 2 -->
 <details>
 <summary> <img src="../assets/img/photosq_EK.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
-<b>Eline Kruithof</b> <br><br>    <i>PhD Candidate</i><br><br> <a href="mailto:e.s.kruithof@uu.nl" class="button"><i class='fas fa-envelope'></i></a>
+<b>Eline Kruithof</b> <br><br>    <i>PhD Candidate UU</i><br><br> <a href="mailto:e.s.kruithof@uu.nl" class="button"><i class='fas fa-envelope'></i></a>
 <a href="https://www.linkedin.com/in/elinekruithof/" class="button"><i class="fab fa-linkedin"></i></a>
 </summary>
 <ul>
@@ -66,7 +66,7 @@ After my PhD at Leipzig University and postdoctoral positions at Radboud Univers
 <!-- Person 3 -->
 <details>
 <summary> <img src="../assets/img/photosq_FB.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
-<b>Fleur Bongaerts</b> <br><br>    <i>PhD Candidate</i><br><br>
+<b>Fleur Bongaerts</b> <br><br>    <i>PhD Candidate UU</i><br><br>
 <a href="https://www.uu.nl/staff/FLPBongaerts/" class="button"><i class="fas fa-globe"></i></a>
 <a href="https://www.linkedin.com/in/fleur-bongaerts/" class="button"><i class="fab fa-linkedin"></i></a>
 <a href="https://www.researchgate.net/profile/Fleur-Bongaerts" class="button"><i class="fab fa-researchgate"></i></a>
@@ -80,7 +80,7 @@ Finally a few fun facts about me: I have about 75 house plants, each has their o
 <!-- Person 4 -->
 <details>
 <summary> <img src="../assets/img/Photosq_FS.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
-<b>Fenne Smits</b> <br><br>    <i>PhD Candidate</i><br><br>
+<b>Fenne Smits</b> <br><br>    <i>PhD Candidate MGGZ</i><br><br>
 <a href="mailto:f.m.smits-2@umcutrecht.nl" class="button"><i class='fas fa-envelope'></i></a>
 <a href="https://nl.linkedin.com/in/fenne-smits-26270ba9" class="button"><i class="fab fa-linkedin"></i></a>
 </summary>
@@ -93,13 +93,13 @@ I am currently involved in two brain stimulation projects. One project focuses o
 <!-- Person 5 -->
 <details>
 <summary> <img src="../assets/img/photosq_SR.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
-<b>Stacha Reumers</b> <br><br>    <i>PhD Candidate</i><br><br>  
+<b>Stacha Reumers</b> <br><br>    <i>PhD Candidate RadboudUMC</i><br><br>  
 <a href="mailto:stacha.reumers@radboudumc.nl" class="button"><i class='fas fa-envelope'></i></a>
 <a href="https://www.linkedin.com/in/stacha-reumers" class="button"><i class="fab fa-linkedin"></i></a>
 </summary>
 <ul>
 My PhD project studies the effects of cerebellar anodal tDCS on cognitive function in patients with the Cerebellar Cognitive and Affective Syndrome (CCAS). This clinical trial is conducted at the Radboudumc and patients from all across the country are included. We investigate the effects of a 2-week tDCS intervention on cognition, focussing on attention and executive functions. We will also try to explore the dynamics of a possible treatment effect and patient or disease characteristics which might influence the effectiveness of tDCS.<br>
-In collaboration with: <a href="https://www.ru.nl/english/people/warrenburg-b-van-de/">Bart van de Warrenburg</a>, <a href="https://www.ru.nl/personen/kessels-r/">Roy Kessels</a> and <a href="https://www.ru.nl/english/people/leeuw-h-de/"> Frank-Eric de Leeuw</a>.
+In collaboration with: <a href="https://www.ru.nl/english/people/warrenburg-b-van-de/">Bart van de Warrenburg</a>, <a href="https://www.ru.nl/english/people/kessels-r/">Roy Kessels</a> and <a href="https://www.ru.nl/english/people/leeuw-h-de/"> Frank-Eric de Leeuw</a>.
 </ul>
 </details>
 
