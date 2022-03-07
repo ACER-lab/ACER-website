@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News
+title: ""
 permalink: /news/090621
 ---
 
@@ -23,3 +23,5 @@ permalink: /news/090621
   <li>On Thursday, Elze will show her work during the poster session. <br> P131 (D2)  Lower functional cerebello-cortical connectivity in combat veterans with impulsive aggression: Preliminary findings from resting state fMRI</li>
   </ul>
 </article>
+
+<a href="../"> Other news </a>

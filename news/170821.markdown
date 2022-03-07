@@ -15,3 +15,5 @@ permalink: /news/170821
   </div>
   "A brief history of Cerebellar Neurostimulation" by Gustavo, Jana and Dennis is now available online, ranging from 1700-present. Check it out! <br><br> <a href="https://doi.org/10.1007/s12311-021-01310-2">https://doi.org/10.1007/s12311-021-01310-2</a>
 </article>
+
+<a href="../"> Other news </a>
