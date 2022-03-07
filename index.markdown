@@ -12,7 +12,7 @@ The Affective Cerebellar Research group headed by Dennis Schutter investigates t
 <hr style="height: 2px; background:black"> <!-- horizontale lijn -->
 
 
-<h1> <a href="/news/">News</a> </h1>
+<h1> <a href="https://acer-lab.github.io/ACER-website/news/">News</a> </h1>
 <columna>
 <article class="post">
     <div class="post-meta">
@@ -23,7 +23,7 @@ The Affective Cerebellar Research group headed by Dennis Schutter investigates t
       01-10-2021 {{ page.date | date_to_string }}
     </time>
   </div>
-    Fleur will start her PhD project on the cerebellum in aggression and anxiety.   <a href="/news/011021/">Read more ...</a>
+    Fleur will start her PhD project on the cerebellum in aggression and anxiety.   <a href="../news/011021/">Read more ...</a>
 </article>
 
 <br>
@@ -36,7 +36,7 @@ The Affective Cerebellar Research group headed by Dennis Schutter investigates t
       17-08-2021 {{ page.date | date_to_string }}
     </time>
   </div>
-  A brief History of Cerebellar Neurostimulation by Gustavo, Jana and Dennis. <a href="/news/170821/">Read more ...</a>
+  A brief History of Cerebellar Neurostimulation by Gustavo, Jana and Dennis. <a href="../news/170821/">Read more ...</a>
 </article>
 </columna>
 
@@ -64,7 +64,7 @@ The Affective Cerebellar Research group headed by Dennis Schutter investigates t
       09-06-2021 {{ page.date | date_to_string }}
     </time>
   </div>
-  Two sessions on the cerebellum and TMS, <a href="/news/090621">Read more ...</a>
+  Two sessions on the cerebellum and TMS, <a href="../news/090621">Read more ...</a>
 </article>
 </columnb>
 

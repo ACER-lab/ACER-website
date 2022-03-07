@@ -7,7 +7,7 @@ math:	false
 comments:	false
 ---
 <h3> Books/chapters </h3>
-* Schutter D. J. L. G. (2020) The cerebellum in emotion and psychopathology. New York: Taylor & Francis.
+* Schutter D.J.L.G. (2020) The cerebellum in emotion and psychopathology. New York: Taylor & Francis.
 
 <h3> Articles </h3>
 _2022_
