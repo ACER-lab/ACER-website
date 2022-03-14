@@ -1,7 +1,7 @@
 ---
 layout: post
 title: News
-permalink: https://acer-lab.github.io/ACER-website/news/
+permalink: /news/
 ---
 <br>
 <article class="post">

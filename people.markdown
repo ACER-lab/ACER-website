@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /https://acer-lab.github.io/ACER-website/people/
+permalink: /people/
 title: "People"
 description:	A description of the current post
 math:	false
