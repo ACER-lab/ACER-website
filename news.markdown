@@ -13,7 +13,7 @@ permalink: /news/
       07-03-2022 {{ page.date | date_to_string }}
     </time>
   </div>
-  "Cerebellar Grey Matter Volumes in Reactive Aggression and Impulsivity in Healthy Volunteers" by Elze, Jana and Dennis is now available online, check it out here: <a href="https://doi.org/10.1007/s12311-021-01337-5">https://doi.org/10.1007/s12311-021-01337-5</a>
+  "Cerebellar Grey Matter Volumes in Reactive Aggression and Impulsivity in Healthy Volunteers" by Elze, Jana and Dennis is now available online. Here, we investigated correlations between grey matter volumes of the vermis/lateral hemispheres and aggression/impulsivity scores. Check it out here: <a href="https://doi.org/10.1007/s12311-021-01337-5">https://doi.org/10.1007/s12311-021-01337-5</a>
 </article>
 
 <br>
@@ -26,7 +26,7 @@ permalink: /news/
       12-11-2021 {{ page.date | date_to_string }}
     </time>
   </div>
-      "Electrode montage-dependent intracranial variability in electric fields induced by cerebellar transcranial direct current stimulation" by Jana and Dennis is now available online, check it out! <a href="https://doi.org/10.1038/s41598-021-01755-9">https://doi.org/10.1038/s41598-021-01755-9</a>
+      "Electrode montage-dependent intracranial variability in electric fields induced by cerebellar transcranial direct current stimulation" by Jana and Dennis is now available online! The paper explores field focality and direction in conventional and alternative montages: <a href="https://doi.org/10.1038/s41598-021-01755-9">https://doi.org/10.1038/s41598-021-01755-9</a>
 </article>
 
 <br>

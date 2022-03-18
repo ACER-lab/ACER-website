@@ -19,7 +19,7 @@ Our research focusses on the role of the cerebellum in emotion and motivation in
 
 <h3> Staff </h3>
 <details>
-<summary> <img src="../assets/img/photo_DT.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> <b> David Terburg </b> <br> <br>  <i>Assistant Professor</i><br><br>
+<summary> <img src="../assets/img/photo_DT.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> <b> David Terburg </b> <br> <br>  <i>Assistant Professor UU</i><br><br>
 <a href="mailto:d.terburg@uu.nl" class="button"><i class='fa fa-envelope' style="color:black;"></i></a>
 <a href="https://www.uu.nl/medewerkers/dterburg" class="button"><i class="fa fa-globe" style="color:black;"></i></a>
 <a href="https://scholar.google.com/citations?user=y4m6kTgAAAAJ" class="button"><i class="fa fa-graduation-cap" style="color:black;"></i></a>
@@ -31,7 +31,7 @@ My research interests focus on the neurobiological mechanisms that underlie soci
 </details>
 
 <details>
-<summary> <img src="../assets/img/photo_JK.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> <b>Jana Klaus</b> <br><br> <i>Post-doc</i><br><br>
+<summary> <img src="../assets/img/photo_JK.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px"> <b>Jana Klaus</b> <br><br> <i>Post-doc UU</i><br><br>
 <a href="mailto:j.klaus@uu.nl" class="button"><i class='fas fa-envelope' style="color:black;"></i></a>
 <a href="https://janaklaus.com" class="button"><i class="fa fa-globe" style="color:black;"></i></a>
 <a href="https://www.linkedin.com/in/jana-klaus-281966b6" class="button"><i class="fa-brands fa-linkedin" style="color:black;"></i></a>
@@ -39,6 +39,18 @@ My research interests focus on the neurobiological mechanisms that underlie soci
 </summary>
 <ul>
 After my PhD at Leipzig University and postdoctoral positions at Radboud University Nijmegen and the Max Planck Institute for Human Cognitive and Brain Sciences, I joined the lab as a postdoctoral researcher in 2019. While I had close to no knowledge on the cerebellum prior to starting work in the group, it didn’t take long until I was sold on its versatile role in affective and cognitive functions. Now I am primarily involved in unravelling its contributions to negative emotional, particularly aggressive, behaviour. However, I also frequently try to combine this topic with language processing, my original research focus. Within the group I keep myself busy by co-supervising our three PhD candidates, digging into structural MRI data, getting 75% excited and 25% critical about brain stimulation, and convincing people to analyse their data with linear mixed models.
+</ul>
+</details>
+
+<details>
+<summary> <img src="../assets/img/Photosq_FS.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
+<b>Fenne Smits</b> <br><br>    <i>Post-doc UU/MGGZ</i><br><br>
+<a href="mailto:f.m.smits-2@umcutrecht.nl" class="button"><i class='fa fa-envelope' style="color:black;"></i></a>
+<a href="https://nl.linkedin.com/in/fenne-smits-26270ba9" class="button"><i class="fa-brands fa-linkedin" style="color:black;"></i></a>
+</summary>
+<ul>
+At the <a href="https://www.braic.nl">Brain Research and Innovation Centre</a>, I investigate the effects of brain stimulation on anxiety and aggression-related complaints in military personnel. A mild, non-invasive form of brain stimulation is used: transcranial direct current stimulation (tDCS).
+I am currently involved in two brain stimulation projects. One project focuses on military personnel who receive treatment for mental complaints. The second project focuses on military personnel without psychological complaints, in which self-control during threat is investigated.
 </ul>
 </details>
 
@@ -81,20 +93,12 @@ Finally a few fun facts about me: I have about 75 house plants, each has their o
 </ul>
 </details>
 
-<!-- Person 4 -->
-<details>
-<summary> <img src="../assets/img/Photosq_FS.jpg" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
-<b>Fenne Smits</b> <br><br>    <i>PhD Candidate MGGZ</i><br><br>
-<a href="mailto:f.m.smits-2@umcutrecht.nl" class="button"><i class='fa fa-envelope' style="color:black;"></i></a>
-<a href="https://nl.linkedin.com/in/fenne-smits-26270ba9" class="button"><i class="fa-brands fa-linkedin" style="color:black;"></i></a>
-</summary>
-<ul>
-At the <a href="https://www.braic.nl">Brain Research and Innovation Centre</a>, I investigate the effects of brain stimulation on anxiety and aggression-related complaints in military personnel. A mild, non-invasive form of brain stimulation is used: transcranial direct current stimulation (tDCS).
-I am currently involved in two brain stimulation projects. One project focuses on military personnel who receive treatment for mental complaints. The second project focuses on military personnel without psychological complaints, in which self-control during threat is investigated.
-</ul>
-</details>
 
-<!-- Person 5 -->
+
+<h3> Collaborations </h3>
+
+
+<h4> RadboudUMC </h4>
 <details>
 <summary> <img src="../assets/img/photosq_SR.png" alt="Face Icon" width="128" height="128" align="left" style="vertical-align:left;margin:0px 30px">
 <b>Stacha Reumers</b> <br><br> <i>PhD Candidate RadboudUMC</i><br><br>
